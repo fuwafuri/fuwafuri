@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+@media screen and (min-width: 0px) and (max-width: 1920px){
+    
+body{
+    margin: 0px;
+    height: 100%;
+}
+html{
+    height: 100%;
+}
+.heder{
+    width: 100%;
+    height: 20px;
+    background-color: #a1f4e5;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.heder2{
+    padding-top:22%;
+}
+.homelogo{
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-top: 0px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.link0{
+    font-size: 20px;
+    text-decoration: none;
+    color: #222;
+}
+.link{
+    padding-left: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #222;
+}
+.hedertop{
+    margin-bottom: 5px;
+    background-color: rgba(255, 178, 178, 0.5);
+}
+}
