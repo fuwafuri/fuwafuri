@@ -54,6 +54,9 @@ html{
     width: 25%;
     height: auto;
 }
+.img0{
+align-items: center;    
+}
 .img2{
     padding-left: 1%;
     padding-top: 1%;
@@ -113,6 +116,9 @@ html{
         padding-top: 3%;
         width: 25%;
         height: auto;
+    }
+    .img0{
+    align-items: center;    
     }
     .img2{
         padding-left: 1%;
@@ -175,6 +181,10 @@ html{
         width: 25%;
         height: auto;
     }
+    
+    .img0{
+        align-items: center;    
+    }
     .img2{
         padding-left: 1%;
         padding-top: 1%;
@@ -235,6 +245,10 @@ html{
             padding-top: 3%;
             width: 25%;
             height: auto;
+        }
+    
+        .img0{
+            align-items: center;    
         }
         .img2{
             padding-left: 1%;
