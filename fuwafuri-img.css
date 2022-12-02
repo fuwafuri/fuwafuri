@@ -48,6 +48,10 @@ html{
     margin-bottom: 5px;
     background-color: rgba(255, 178, 178, 0.5);
 }
+.furi{
+    width:80%;
+    height:auto;
+}
 }
 @media screen and (min-width: 375px) and (max-width: 425px){
     body{
@@ -95,6 +99,10 @@ html{
     .hedertop{
         margin-bottom: 5px;
         background-color: rgba(255, 178, 178, 0.5);
+    }
+    .furi{
+        width:80%;
+        height:auto;
     }
 }
 @media screen and (min-width: 281px) and (max-width: 375px){
@@ -145,6 +153,10 @@ html{
         margin-bottom: 5px;
         background-color: rgba(255, 178, 178, 0.5);
     }
+    .furi{
+        width:80%;
+        height:auto;
+    }
     }
     @media screen and (min-width: 0px) and (max-width: 281px){
     
@@ -193,5 +205,9 @@ html{
         .hedertop{
             margin-bottom: 5px;
             background-color: rgba(255, 178, 178, 0.5);
+        }
+        .furi{
+            width:80%;
+            height:auto;
         }
         }
