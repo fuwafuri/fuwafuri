@@ -46,6 +46,7 @@ html{
 }
 .hedertop{
     position: fixed;
+    width:100%;
     margin-bottom: 5px;
     background-color: rgba(255, 178, 178, 0.5);
 }
@@ -99,6 +100,8 @@ html{
     }
     .hedertop{
         position: fixed;
+            width:100%;
+
         margin-bottom: 5px;
         background-color: rgba(255, 178, 178, 0.5);
     }
@@ -152,6 +155,8 @@ html{
         font-family: 'Noto Sans', sans-serif;
     }
     .hedertop{
+            width:100%;
+
         position: fixed;
         margin-bottom: 5px;
         background-color: rgba(255, 178, 178, 0.5);
@@ -207,6 +212,8 @@ html{
         }
         .hedertop{
             position: fixed;
+                width:100%;
+
             margin-bottom: 5px;
             background-color: rgba(255, 178, 178, 0.5);
         }
