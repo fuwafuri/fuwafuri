@@ -24,6 +24,7 @@ body{
     width: 100%;
     font-size: 30px;
     padding-top: 0px;
+    font-family: 'M PLUS 1p', sans-serif;
 }
 .link0{
     font-size: 26px;
@@ -72,6 +73,7 @@ body{
         width: 100%;
         font-size: 25px;
         padding-top: 0px;
+        font-family: 'M PLUS 1p', sans-serif;
     }
     .link0{
         font-size: 18px;
@@ -119,6 +121,7 @@ body{
         width: 100%;
         font-size: 20px;
         padding-top: 0px;
+        font-family: 'M PLUS 1p', sans-serif;
     }
     .link0{
         font-size: 15px;
@@ -167,6 +170,7 @@ body{
             width: 100%;
             font-size: 15px;
             padding-top: 0px;
+            font-family: 'M PLUS 1p', sans-serif;
         }
         .link0{
             font-size: 12px;
