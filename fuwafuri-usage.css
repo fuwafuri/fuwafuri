@@ -44,6 +44,7 @@ body{
 }
 .hedertop{
         position: fixed;
+    margin-top:0px;
     width:100%;
     background-color: rgba(255, 178, 178, 0.5);
 }
@@ -100,6 +101,7 @@ body{
     .hedertop{
             position: fixed;
     width:100%;
+        margin-top:0px;
 
         background-color: rgba(255, 178, 178, 0.5);
     }
@@ -154,6 +156,8 @@ body{
     }
     .hedertop{
     position: fixed;
+            margin-top:0px;
+
     width:100%;
         background-color: rgba(255, 178, 178, 0.5);
     }
@@ -209,7 +213,9 @@ body{
         }
         .hedertop{
                 position: fixed;
-    width:100%;
+    width:100;
+            margin-top:0px;
+
             background-color: rgba(255, 178, 178, 0.5);
         }
         .link1{
