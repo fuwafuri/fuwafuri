@@ -45,7 +45,6 @@ body{
 .hedertop{
         position: fixed;
     width:100%;
-    margin-bottom: 5px;
     background-color: rgba(255, 178, 178, 0.5);
 }
 .link1{
@@ -101,7 +100,7 @@ body{
     .hedertop{
             position: fixed;
     width:100%;
-        margin-bottom: 5px;
+
         background-color: rgba(255, 178, 178, 0.5);
     }
     .link1{
@@ -156,7 +155,6 @@ body{
     .hedertop{
     position: fixed;
     width:100%;
-        margin-bottom: 5px;
         background-color: rgba(255, 178, 178, 0.5);
     }
     .link1{
@@ -212,7 +210,6 @@ body{
         .hedertop{
                 position: fixed;
     width:100%;
-            margin-bottom: 5px;
             background-color: rgba(255, 178, 178, 0.5);
         }
         .link1{
