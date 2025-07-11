@@ -45,6 +45,10 @@ html{
     margin-bottom: 5px;
     background-color: rgb(205, 255, 255);
 }
+.fuwafurirogo{
+    witdth:80%;
+    height:auto;
+}
 }
 @media screen and (min-width: 375px) and (max-width: 425px){
     body{
