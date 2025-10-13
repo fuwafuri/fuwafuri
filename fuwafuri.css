@@ -36,14 +36,12 @@ html{
     font-size: 26px;
     text-decoration: none;
     color: #222;
-    font-family: 'Noto Sans', sans-serif;
 }
 .link{
     padding-left: 100px;
     font-size: 26px;
     text-decoration: none;
     color: #222;
-    font-family: 'Noto Sans', sans-serif;
 }
 .hedertop{
     position: fixed;
@@ -91,14 +89,12 @@ html{
         font-size: 18px;
         text-decoration: none;
         color: #222;
-        font-family: 'Noto Sans', sans-serif;
     }
     .link{
         padding-left: 100px;
         font-size: 18px;
         text-decoration: none;
         color: #222;
-        font-family: 'Noto Sans', sans-serif;
     }
     .hedertop{
         margin-bottom: 5px;
@@ -205,6 +201,7 @@ html{
             background-color: rgba(255, 178, 178, 0.5);
         }
         }
+
 
 
 
