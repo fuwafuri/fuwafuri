@@ -1,4 +1,10 @@
 @charset "utf-8";
+.neonderthaw-regular {
+  font-family: "Neonderthaw", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 @media screen and (min-width: 426px) and (max-width: 11111111111111111111111px){
 
@@ -199,6 +205,7 @@ html{
             background-color: rgba(255, 178, 178, 0.5);
         }
         }
+
 
 
 
