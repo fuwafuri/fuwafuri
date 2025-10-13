@@ -1,6 +1,11 @@
 @charset "utf-8";
 
 @media screen and (min-width: 426px) and (max-width: 11111111111111111111111px){
+    .pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 
 body{
     margin: 0px;
@@ -54,6 +59,12 @@ html{
 }
 }
 @media screen and (min-width: 375px) and (max-width: 425px){
+    .pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
     body{
         margin: 0px;
         height: 100%;
@@ -99,10 +110,12 @@ html{
     .fuwafurirogo{
         width:80%;
         height:auto;
-        padding-top:0px;
+        padding-top:40%;
     }
     .fuwafurirogodiv{
         text-align: center;
+        padding-top: 40%;
+        
     }
 }
 @media screen and (min-width: 281px) and (max-width: 376px){
@@ -195,4 +208,5 @@ html{
             background-color: rgba(255, 178, 178, 0.5);
         }
         }
+
 
