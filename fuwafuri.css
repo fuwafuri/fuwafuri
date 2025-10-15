@@ -57,8 +57,8 @@ html{
 }
 .fuwafurirogodiv{
 position: relative;
-right: 10%px;
-top: 50%;
+right: 10%;
+
 }
 }
 @media screen and (min-width: 375px) and (max-width: 425px){
@@ -205,6 +205,7 @@ top: 50%;
             background-color: rgba(255, 178, 178, 0.5);
         }
         }
+
 
 
 
