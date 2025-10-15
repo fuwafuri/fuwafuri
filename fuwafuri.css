@@ -52,7 +52,7 @@ html{
     width:45%;
     height:auto;
     padding-top:0px;
-    padding-left:70%;
+    padding-left:50%;
     position: absolute;
 }
 .fuwafurirogodiv{
@@ -203,6 +203,7 @@ position: relative;
             background-color: rgba(255, 178, 178, 0.5);
         }
         }
+
 
 
 
