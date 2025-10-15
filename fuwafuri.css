@@ -56,7 +56,9 @@ html{
     position: absolute;
 }
 .fuwafurirogodiv{
-    padding-right:10%;
+position: relative;
+right: 10%px;
+top: 50%;
 }
 }
 @media screen and (min-width: 375px) and (max-width: 425px){
@@ -203,6 +205,7 @@ html{
             background-color: rgba(255, 178, 178, 0.5);
         }
         }
+
 
 
 
